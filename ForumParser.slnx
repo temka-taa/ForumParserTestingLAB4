@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="DatabaseLibrary.Tests/DatabaseLibrary.Tests.csproj" />
+  <Project Path="DatabaseLibrary/DatabaseLibrary.csproj" />
+  <Project Path="ForumParser/ForumParser.csproj" />
+</Solution>
